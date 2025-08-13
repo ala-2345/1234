@@ -8,3 +8,5 @@ while True:
         print(f"the password is {z}")
         print("Dr.Mallah was Here")
         break
+a = random.choice([34 , 56 , 0])
+print(a)

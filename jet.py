@@ -6,4 +6,5 @@ while True:
     if x == z:
         print("i gussed your number")
         print(f"the password is {z}")
+        print("Dr.Mallah was Here")
         break

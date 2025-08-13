@@ -8,3 +8,6 @@ while True:
         print(f"the password is {z}")
         print("Dr.Mallah was Here")
         break
+import matplotlib as plt
+plt.bar(["s" , "c"] , [12 , 34] , color=["red" , "pink"])
+plt.show()
